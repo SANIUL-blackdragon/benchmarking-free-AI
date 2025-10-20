@@ -35,10 +35,3 @@ For benchmarking: Test ~1k tasks across 4 SDLC phases (250/phase) using a browse
 | **Abacus.ai** | [abacus.ai](https://abacus.ai) | Pre-built agents/models | No-code deployment; delivery packaging. | Free tier unlimited for basic (Reddit/2025). | Delivery (20% for agents). |
 | **Aentic Coder** | [aentic.ai](https://aentic.ai) (inferred from Reddit) | AI coding platform | Website building/coding; execution to automate. | 100% free preview (Reddit 2025). | Execution (30% for prompts). |
 | **Agentic Coder** | [agenticcoder.com](https://agenticcoder.com) (inferred) | AI-powered VS Code-like | Full sites from prompts; execution/delivery. | Free during launch (Reddit 2025). | Execution (40% for efficiency). |
-
-## Benchmarking Notes
-- **Total Candidates**: 20 (prioritize top 7 for initial runs: GLM-4.6, Qwen 3, DeepSeek V3.1, Llama 3.1, Mistral Nemo, Phi-3.5, Gemma 2—verified unlimited via docs/Reddit).
-- **Verification Sources**: Cross-checked with 2025 Reddit (r/CharacterAIrunaways, r/privacy), Medium/DataCamp, arXiv (e.g., 2508.09101 for Qwen), and official sites. All support deepthink/CoT for SDLC prompts.
-- **Next Steps**: Run per standard strategy (1k tasks); log in repo (e.g., add results.md). Update list quarterly.
-
-This file is ready for GitHub commit. For updates, run: `git add candidates.md; git commit -m "Initial candidates list"`.
